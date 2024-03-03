@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# PGA Fedex St Jude Championship
 
 ## Environments
-- Preview: https://main--franklin-the-players--pgatour.hlx.page/
-- Live: https://main--franklin-the-players--pgatour.hlx.live/
+- Preview: https://main--fedex-st-jude-championship--hlxsites.hlx.page/
+- Live: https://main--fedex-st-jude-championship--hlxsites.hlx.live/
+- Prod: https://www.fedexchampionship.com/
 
 ## Installation
 
